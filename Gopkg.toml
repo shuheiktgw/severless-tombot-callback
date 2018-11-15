@@ -1,0 +1,7 @@
+[[constraint]]
+  version = "v0.0.1"
+  name = "github.com/shuheiktgw/go-lambda-linebot"
+
+[prune]
+  go-tests = true
+  unused-packages = true
